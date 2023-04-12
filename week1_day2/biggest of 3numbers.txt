@@ -1,0 +1,16 @@
+step1 start
+step2 read numbers number1,number2,&number3
+step3 if (number1>number2)
+  print number2 is biggest 
+   else number1 is biggest 
+    
+   if (number2>number3)
+   print number3 is biggest
+  else 
+   print number2 is biggest
+
+   if (number1>number3)
+   print number3 is biggest
+   else
+   print number1 is biggest
+step4 stop

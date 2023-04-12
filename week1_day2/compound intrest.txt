@@ -1,0 +1,6 @@
+ start
+ read,(p)initial prinicipal balance,(r) rate of interest  number of times interset applied,& (t) time
+ calculate the compound interset by using formula compound interest<--- A = P(1+rt/100)
+ print compound interest A
+ stop
+ 

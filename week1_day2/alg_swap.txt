@@ -1,0 +1,7 @@
+ step 1: start
+step 2: read the two numbers into the variables num1 and num2
+step 3: assign a number to the temp variable as temp = num1
+step 4: compute num1 = num2
+step 5: compute num2 = temp
+step 6: print num1 and num2
+step 7: end

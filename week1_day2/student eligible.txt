@@ -1,0 +1,6 @@
+  start
+  read student percentage 
+      if student percentage is (percentage>85)
+    print your eligible to take admission
+     else 
+    print your not eligible
