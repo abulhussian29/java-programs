@@ -1,0 +1,22 @@
+  if(cost>100000) -----10% discount
+  if(cost<100000 and cost>50000) -----5% discount
+  in all other cases-----2% discount
+
+ 
+
+  20% GST will be added(on the actual price only)
+
+ 
+
+you need to write an algorithm to determine the total price of the mobile phone
+1 start
+2 read the amount of the mobile cost
+3 calculate gst by using formula (cost+cost/20%  ) ----->total cost
+4 if (total cost>100000)
+   i discount<--- total cost/10
+5 if(total cost<100000 and cost>50000)
+   i discount <---- total cost/5
+  else
+   ii discount<---total cost/2
+6 final amount<--total cost-discount
+7 stop
