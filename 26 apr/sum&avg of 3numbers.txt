@@ -1,0 +1,10 @@
+//write an pseudocode to find the sum and average of any 3 numbers
+
+begin
+       read a integer a, b,c
+    declare the veriables a,b,c,sum,avg
+  
+    compute sum=a+b+c
+    compute avg<---sum/3
+    print sum & avg
+stop

@@ -1,0 +1,14 @@
+ //write a pseudocode to find voter is eligible to vote or not
+
+1.begin
+2.read the age n
+3. declare n
+4.if (age>=18)
+   {
+     print "you are eligible to vote"
+   }
+else 
+   {
+     print"you are not a eligible to vote"
+5. end
+ 

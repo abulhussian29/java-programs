@@ -1,0 +1,23 @@
+  start
+  read student percentage 
+      if student percentage is (percentage>85)
+    print your eligible to take admission
+     else 
+    print your not eligible
+
+
+begin
+
+ 
+
+    declare the variable percentage //percentage scored by the student
+    read percentage
+    if(percentage>85)
+    {
+    print("eligible for admission")
+    }
+    else
+    {
+    print("not eligible for admission")
+    }
+end
