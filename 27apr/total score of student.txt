@@ -1,0 +1,46 @@
+  //pseudocode to calculate total marks and grade of a studnt
+
+
+1 begin
+2 declare numberical internal marks of sub,external marks of sub,project marks,taotal marks,grade,fail
+3 read the internalmarks,external marks,project marks
+4   while repeat the steps (i)-(iv) (internalmarks & external marks & project marks >=50) (until total marks<50){
+      i.internal marks=internal marks/10%
+      ii. external marks =external marks/20%
+     iii.project marks =project marks/70%
+     iv.total marks=internal marks +external marks+ project marks
+  }
+ if (total marks >=90){
+       print("A")
+  }
+ else if (total marks <90>=70){
+      print ("B")
+   }
+else if (total marks <70>=50)
+     print ("c")
+  }
+     
+
+else
+
+
+if (internalmarks <50){
+     print("sub+internal marks")
+    }
+   else if (<50){
+    print("sub+external marks")
+   }
+  else if (project marks<50){
+    print("sub+project marks")
+   }   
+end
+
+
+
+ 
+
+
+
+
+  
+      

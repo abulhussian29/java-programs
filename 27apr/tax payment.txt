@@ -1,0 +1,36 @@
+       //pseudocode to calculate the tax
+1.Begin
+2. numeric salary,total tax
+3. print ("enter your salary")
+4. input(salary)
+5. if (salary<=7lakhs){
+     print (" no tax is applicable")
+  }
+6   else
+       
+         if (salary>7lakhs){
+        }
+      else if (salary is 1-3lakhs)*5/100=tax1{
+            print("toatal tax=tax1")
+        }
+     else if (salary is 3-6lakhs)*10/100=tax2{
+            print("total tax=tax1+tax2")
+            }
+     else if (salary is 6-9lakhs)*15/100=tax3{
+            print ("total tax=tax1+tax2+tax3")
+            }
+     else if (salary is 9-12lakhs)*20/100=tax4{
+             print ("total tax=tax1+tax2+tax3+tax4
+            }
+     else if (salary is <12lahks)*30/100=tax5{
+           print("total tax= tax1+tax2+tax3+tax4+tax5
+          }
+ end
+
+
+
+
+
+  
+ 
+     
