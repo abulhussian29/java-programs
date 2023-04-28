@@ -1,0 +1,33 @@
+
+    //pseudocode to calaculate electiricity bill
+
+1.begin
+2. numeric present units,previous units,totalbill,total units
+3.print("enter previous units")
+4.print("enter present units")
+5.input (" previous units & present units")
+ if total units=previous units - present units{
+     print ("total units")
+     }
+6. if(total units =0){
+      print ("total bill=75 rupees")
+     }
+  else if (total units <50){
+         ("total bill=2.30 paise*totalunits")
+         print("total bill=totalbill*18/100")
+       }
+else if (total units <150){
+     ("total bill=2.75 paise*total units")
+    print("total bill=totalbill*18/100")
+      }
+else if (total units <250){
+     ("total bill=3.50 paise*total units")
+     print("total bill=totalbill*18/100")
+      }
+else if (total units <350){
+     ("total bill=4.50 paise*total units")
+     print("total bill=totalbill*18/100")
+      }
+end
+       
+   
