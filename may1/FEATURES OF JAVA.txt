@@ -1,0 +1,96 @@
+
+    // buzz word /features of  JAVA
+1 object oriented
+2 architecture netural
+3 distuuted
+4 dyanmic
+5 interpreted
+6 highly performance
+7 platform independent
+8 robust
+9 security
+10 multi threading
+
+
+
+
+  //how to use java
+1.save file with .java extension
+2 compile javac file name.java
+3.run java file name
+
+  // java applications
+
+ jdk:java develop applications 
+     used to develop java applications
+jre: java runtime environment
+     used to run java applications
+jvm: java virtual machince
+      used to transfer byte code to machince level language /code
+
+  //sections
+documentation section
+package statement
+import statements
+interface statement
+class definition
+main method class
+{
+  main metod definition
+}
+
+
+
+   //identifiers
+Identifier rules:They can have alphabets, digits, underscore and dollar symbol
+       They must not begin with digit
+        Keywords cannot be used as identifiers
+        whitespace characters are also not allowed
+
+  //reprsentaion
+
+•A package represents a sub directory that contains a group of classes and interfaces. Names of packages in Java are written in small letters
+ 
+•Each word of class names and interface names start with a capital letter (String, DataInputStream, ActionListener etc.)
+ 
+•The first word of a variable and method name is in small letters; then from second word onwards, each new word starts with a capital letter (readLine( ), nextInt( ) )
+ 
+•Constants represent fixed values that cannot be altered. Such constants should be written by using all capital letters
+ 
+All keywords should be written by using all small letters
+
+
+
+
+
+
+
+tokens 
+1.keywords  :keywords are predefined data types 
+2.identifiers : identifiers is name that given for class method &object
+ They can have alphabets, digits, underscore and dollar symbol
+                They must not begin with digit
+                Keywords cannot be used as identifiers
+                whitespace characters are also not allowed
+3.literals :it is be any constant value
+4.operaters : symbols that is used to perform certain operations
+5.special symblos  : (),{},[] ,;
+   
+ data types 
+types of data types 1.permitive data types  numeric ,non numeric  
+                    2. non premitive data types  strings, arrays, user defined classes 
+
+
+ byte -2ex7 to2ex7-1
+ short -2ex15 to 2ex15-1
+ int  -2ex31 to 2ex31-1
+ long -2ex63 to 2ex63-1
+  
+ unicode systems : to understand various lanugauages
+
+ 
+
+
+
+
+

@@ -1,0 +1,38 @@
+
+// java program for implicit convertion
+
+ 
+
+public class ImplicitConversion
+ {
+    public static void main(String[] args)
+ {
+        int a=2;
+        double y=a; 
+        System.out.println("The value of a is " + x);
+        System.out.println("The value of y is " + y);
+    }
+}
+     
+
+ 
+
+ 
+
+// java program for explicit convertion
+
+ 
+
+public class ExplicitConversion 
+{
+  public static void main(String[] args) 
+{
+    double d=9.200;
+    int i=(int)d; 
+
+ 
+
+    System.out.println("d = " + d);
+    System.out.println("i = " + i);
+  }
+}
