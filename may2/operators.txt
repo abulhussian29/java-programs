@@ -1,0 +1,55 @@
+1 operators symbol which is used to execute  
+   uninary operators  : one operand  
+   binary operators : uses two operand 
+   ternary operators :uses 3 operands
+2 logical operaters
+   logical and -->&&
+   logical or -->||
+   logical not-->!
+3 shorthand assinment operator 
+  symbol +=
+ ex: a+=5
+4 Increment and decrement operators 
+   symbols ++ , --
+   types 1 post increment a++
+         2 pre increment ++a
+  post decrement a--
+  pre decrement --a
+5 bitwise operator :
+    bitwise And -->&
+    bitwise or -->|
+    bitwise xor-->^
+
+
+
+     // example program
+  import java.util.Scanner;
+
+public class Program6 {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int a, b;
+    System.out.println("enter the value a");
+    a = sc.nextInt();
+    System.out.println("enter the value b");
+    b = sc.nextInt();
+    System.out.println("uninary operator=" + +a);
+    System.out.println(" binary operator=" + a + b);
+    System.out.println("ternary operator=" + a + b + a);
+    System.out.println("logical and operator =a&&b");
+    System.out.println("logical or operator=a||b");
+    System.out.println("logical not operator=b!");
+    System.out.println("short hand  operator=a+=b");
+    System.out.println("increment  post operator=" + a++);
+    System.out.println("preincrment operator=" + ++a);
+    System.out.println("decrement operator=" + a--);
+    System.out.println("bitwise logical operator= a&b");
+  }
+}
+
+    bitwise 1's compliment -->~
+   bitwise shift left --> <<
+  bitwise shift right --> >>
+
+
+         
