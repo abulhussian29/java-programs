@@ -1,0 +1,16 @@
+//  WAP to find sum of all natural numbers between 1 to n.
+
+import java.util.Scanner;
+public class Main{
+    public static void main(String[]args){
+Scanner s = new Scanner(System.in);
+        int a = 1;
+        int sum = 0, n;
+        System.out.println("enter the value n");
+        n = s.nextInt();
+        while (a <= n) {
+            sum = sum + a++;
+        }
+        System.out.println("sum of all natural numbers " + sum);	        
+	    }
+	}

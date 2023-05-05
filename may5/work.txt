@@ -1,0 +1,9 @@
+work
+17. WAP to print all natural numbers from 1 to n. - using while loop
+18. WAP to print all natural numbers in reverse (from n to 1). -     using while loop
+19. WAP to print all alphabets from a to z. - using while loop
+20. WAP to print all even numbers between 1 to 100. - using while     loop
+21. WAP to print all odd number between 1 to 100.
+22. WAP to find sum of all natural numbers between 1 to n.
+23. WAP to find sum of all even numbers between 1 to n.
+24. WAP to find sum of all odd numbers between 1 to n.
