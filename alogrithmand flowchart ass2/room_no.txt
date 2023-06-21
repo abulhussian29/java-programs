@@ -1,0 +1,46 @@
+2. Suppose Person X want to visit Room numbers 101,103,124,109,200 according to his Boss order and needs
+ to report the room number which he was visited. Write the algorithm to build this scenario.
+
+
+
+Step 1: enter room number which the personX has to visit  say roomno
+
+Step2: switch(roono)
+
+           {
+
+  case 101:
+
+display  “ visited room no 101”
+
+              break;
+
+ case 103:
+
+display  “ visited room no 104”
+
+                 break;
+
+ case 124:
+
+display  “ visited room no 124”
+
+              break;
+
+ case 109:
+
+display  “ visited room no 109”
+                break;
+
+ case 200:
+
+display  “ visited room no 200”
+
+                     break;
+
+ default: display “invalid room no”
+
+           }
+
+           stop
+    

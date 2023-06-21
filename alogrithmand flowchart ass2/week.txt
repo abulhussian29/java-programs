@@ -1,0 +1,27 @@
+6. Write the algorithm to display day name if day number entered.
+
+           Start Day 1 as Monday and Day 7 as Sunday
+
+
+
+	start
+ 1.enter day number between 1to 7
+ 2. switch (days) {
+
+     case '1': print"monday"
+             break;
+      case '2': print"tuesday"
+             break;
+	  case '3': print"wednsday"
+             break;
+	  case '4': print"thursday"
+             break;
+	  case '5': print"friday"
+             break;
+	  case '6': print"saturday"
+             break;
+	  case '7': print"sunday"
+             break;
+}
+	default: inavlid day number
+stop

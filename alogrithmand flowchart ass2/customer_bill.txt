@@ -1,0 +1,27 @@
+
+4. Write the algorithm to find  bill need to pay by Book store customer with the following menu option 
+	Book: price 100 Rs
+pen: price 3  Rs
+pencil: price 1 Rs
+Eraser: price 0.5 Rs
+Promote the user to select one item name and display the amount need to pay by the customer.
+
+
+
+
+	start
+1.display items Book
+		pen
+		pencil
+		Eraser
+2. enter  the item
+         case"Book":100rs
+  		break;
+	case"pen":3rs
+  		break;
+	case"Pencil":1rs
+  		break;
+	case"Eraser":0.5rs
+  		break;
+3.default :invalid item
+	end

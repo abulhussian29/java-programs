@@ -1,0 +1,43 @@
+start
+
+Step 1: Display (“ select any one of the following symbol to perform calculator operation
+
+                       ‘+’: Addition
+
+                       ‘-‘: Substraction
+
+                       ‘/’: Division
+
+                       ‘*’: Multiplication “ )
+
+Step 2: Read any symbol i.e symbol
+
+Step 3: Read any two numbers say number1 and number2
+
+Step 4: switch(symbol)
+
+           {
+
+                       case  ‘+’ :  display (number1+number2);        
+
+                                               break;
+
+case  ‘-’ :  display (number1-number2);         
+
+                                               break;
+
+case  ‘/’ :  display (number1/number2);         
+
+                                               break;
+
+case  ‘*’ :  display (number1*number2);        
+
+                                               break;
+
+                       default : display “invalid symbol”
+
+ 
+
+           }
+
+stop 
