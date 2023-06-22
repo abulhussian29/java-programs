@@ -1,0 +1,12 @@
+5. Find the factorial of a number say number!
+
+
+	start
+1.enter the number 'n' to find the factorial
+2.for(i=n;i>=1;i--){
+    n=n*n-1
+    print(n)
+}
+end
+
+   

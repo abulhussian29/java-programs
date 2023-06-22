@@ -1,0 +1,8 @@
+
+Write algorithm to find values of 1+2+3+4+5+------100
+
+start
+for(sum=1;sum<=100;sum=sum+1)
+    
+print (sum)
+stop

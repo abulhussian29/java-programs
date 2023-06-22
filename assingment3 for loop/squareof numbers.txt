@@ -1,0 +1,10 @@
+6. Find the values of 11+22+33+44+55+------nn
+
+
+	start
+1.read the value n
+2.for(i=1;i<=n;i++){
+   sum=sum+math.pow(i,i)
+   print(sum)
+  }
+end
